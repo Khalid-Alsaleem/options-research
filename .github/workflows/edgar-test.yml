@@ -1,0 +1,31 @@
+name: edgar-test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install packages
+        run: pip install requests pandas
+
+      - name: Run EDGAR test
+        run: python scripts/edgar_test.py
+
+      - name: Save results to the repository
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add data
+          git commit -m "EDGAR earnings-date test results" || echo "No changes"
+          git push
