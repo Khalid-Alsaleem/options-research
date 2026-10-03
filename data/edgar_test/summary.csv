@@ -1,9 +1,9 @@
-ticker,cik
-AAPL,
-ATVI,
-CELG,
-TWTR,
-XLNX,
-CTXS,
-FRC,
-SIVB,
+ticker,cik,status,response_start
+AAPL,320193,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
+ATVI,718877,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
+CELG,816284,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
+TWTR,1418091,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
+XLNX,743988,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
+CTXS,877890,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
+FRC,1132979,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
+SIVB,719739,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
