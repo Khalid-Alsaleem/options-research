@@ -19,7 +19,7 @@ ROOT = Path("data")
 (ROOT / "eod_override").mkdir(parents=True, exist_ok=True)
 
 PRICES = {           # EODHD symbol now points to a different company
-    "BBBY": "BBBY_old",      # EODHD BBBY = former Overstock
+    "BBBY": "BBBYQ",         # EODHD BBBY and BBBY_old both carry Overstock history; BBBYQ has the original ISIN
     "BBT": "TFC",            # EODHD BBT = Beacon Financial; BB&T became Truist (TFC)
     "PARA": "PARA_old1",     # EODHD PARA = Banzai International
     "XL": "XL_old",          # EODHD XL = XL Fleet
@@ -34,7 +34,7 @@ EARNINGS = {         # CIKs: old company + new holding company where it reorgani
     "CI": [701221, 1739940],
     "PARA": [813828],
     "BBT": [92230],
-    "XL": ["XL GROUP"],
+    "XL": [875159],          # name lookup picked Destination XL (wrong); XL Group Ltd pinned
 }
 
 
