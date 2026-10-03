@@ -22,6 +22,7 @@ ROOT = Path("data")
 (ROOT / "eod_fixed").mkdir(parents=True, exist_ok=True)
 
 # ticker_raw | segment from | segment to | EODHD candidates | SEC name token sets (alternatives separated by ;)
+# "=" exact name, "#" fixed CIK. v2: ANDV, DNB, VIAB pinned to CIK after review; PBCT name fixed.
 MAP = """
 AABA||||AABA|ALTABA
 ADS||||ADS,BFH|ALLIANCE DATA SYSTEMS;BREAD FINANCIAL
@@ -29,7 +30,7 @@ ADT||||ADT_old|=ADT CORP
 AET||||AET|AETNA INC
 AGN||||AGN,AGN_old|ALLERGAN PLC;ACTAVIS PLC
 ALXN||||ALXN|ALEXION PHARMACEUTICALS
-ANDV||||ANDV|ANDEAVOR;TESORO CORP
+ANDV||||ANDV|#50104
 ANTM||||ELV,ANTM|ANTHEM INC;ELEVANCE HEALTH
 APC||||APC_old|ANADARKO PETROLEUM
 ARG||||ARG|AIRGAS INC
@@ -58,7 +59,7 @@ CXO||||CXO|CONCHO RESOURCES
 DAY||||DAY|DAYFORCE;CERIDIAN HCM
 DISCA||||DISCA|DISCOVERY INC;DISCOVERY COMMUNICATIONS;WARNER BROS DISCOVERY
 DISCK||||DISCK|DISCOVERY INC;DISCOVERY COMMUNICATIONS;WARNER BROS DISCOVERY
-DNB||||DNB_old|DUN BRADSTREET CORP
+DNB||||DNB_old|#1115222
 DO||||DO_old|DIAMOND OFFSHORE
 DOW||2018-01-01||DOW_old|DOW CHEMICAL
 DOW|2018-01-01|||DOW|=DOW INC
@@ -104,7 +105,7 @@ MXIM||||MXIM|MAXIM INTEGRATED
 MYL||||MYL,VTRS|MYLAN N V;MYLAN NV;MYLAN INC
 NBL||||NBL|NOBLE ENERGY
 NFX||||NFX_old,NFX|NEWFIELD EXPLORATION
-PBCT||||PBCT|PEOPLES UNITED FINANCIAL
+PBCT||||PBCT|PEOPLE S UNITED FINANCIAL;PEOPLES UNITED FINANCIAL
 PCL||||PCL_old|PLUM CREEK TIMBER
 PCP||||PCP|PRECISION CASTPARTS
 PEAK||||DOC,PEAK|HEALTHPEAK PROPERTIES
@@ -132,7 +133,7 @@ TWC||||TWC|TIME WARNER CABLE
 TWX||||TWX|=TIME WARNER INC
 UTX||||RTX,UTX|UNITED TECHNOLOGIES;RAYTHEON TECHNOLOGIES;RTX CORP
 VAR||||VAR|VARIAN MEDICAL
-VIAB||||VIAB|=VIACOM INC
+VIAB||||VIAB|#1339947
 VIAC||||PARA,VIAC|VIACOMCBS;PARAMOUNT GLOBAL
 WCG||||WCG|WELLCARE HEALTH
 WFM||||WFM|WHOLE FOODS
@@ -241,6 +242,9 @@ for i, (raw, s_start, s_end, cands, names) in enumerate(segs):
     # earnings: SEC entity with most 8-K 2.02 filings inside the segment
     cand_ciks = []
     for alt in names.split(";"):
+        if alt.startswith("#"):                 # CIK fixed by hand after review (verified by filings count)
+            cand_ciks.append((0, int(alt[1:])))
+            continue
         exact = alt.startswith("=")
         toks = norm(alt.lstrip("=")).split()
         for nm, cik in sec_names:
