@@ -1,0 +1,746 @@
+ticker_raw,cik,how,sec_name,count
+A,1090872.0,current_list,"AGILENT TECHNOLOGIES, INC.",47.0
+AABA,,,,
+AAL,6201.0,current_list,American Airlines Group Inc.,55.0
+AAP,1158449.0,current_list,ADVANCE AUTO PARTS INC,47.0
+AAPL,320193.0,current_list,Apple Inc.,48.0
+ABBV,1551152.0,current_list,AbbVie Inc.,67.0
+ABC,1140859.0,ticker_lookup,"Cencora, Inc.",47.0
+ABMD,815094.0,ticker_lookup,ABIOMED INC,37.0
+ABNB,1559720.0,current_list,"Airbnb, Inc.",23.0
+ABT,1800.0,current_list,ABBOTT LABORATORIES,51.0
+ACGL,947484.0,current_list,ARCH CAPITAL GROUP LTD.,58.0
+ACN,1467373.0,current_list,Accenture plc,47.0
+ADBE,796343.0,current_list,ADOBE INC.,47.0
+ADI,6281.0,current_list,ANALOG DEVICES INC,47.0
+ADM,7084.0,current_list,Archer-Daniels-Midland Co,49.0
+ADP,8670.0,current_list,AUTOMATIC DATA PROCESSING INC,47.0
+ADS,,,,
+ADSK,769397.0,current_list,"Autodesk, Inc.",51.0
+ADT,1703056.0,current_list,ADT Inc.,40.0
+AEE,1002910.0,current_list,AMEREN CORP,48.0
+AEP,4904.0,current_list,AMERICAN ELECTRIC POWER CO INC,47.0
+AES,874761.0,current_list,AES CORP,45.0
+AET,,,,
+AFL,4977.0,current_list,AFLAC INC,47.0
+AGN,,,,
+AIG,5272.0,current_list,"AMERICAN INTERNATIONAL GROUP, INC.",55.0
+AIV,922864.0,current_list,APARTMENT INVESTMENT & MANAGEMENT CO,46.0
+AIZ,1267238.0,current_list,"ASSURANT, INC.",59.0
+AJG,354190.0,current_list,Arthur J. Gallagher & Co.,47.0
+AKAM,1086222.0,current_list,AKAMAI TECHNOLOGIES INC,47.0
+ALB,915913.0,current_list,ALBEMARLE CORP,51.0
+ALGN,1097149.0,current_list,ALIGN TECHNOLOGY INC,46.0
+ALK,766421.0,current_list,"ALASKA AIR GROUP, INC.",47.0
+ALL,899051.0,current_list,ALLSTATE CORP,55.0
+ALLE,1579241.0,current_list,Allegion plc,48.0
+ALXN,,,,
+AMAT,6951.0,current_list,APPLIED MATERIALS INC /DE,46.0
+AMCR,1748790.0,current_list,Amcor plc,29.0
+AMD,2488.0,current_list,ADVANCED MICRO DEVICES INC,50.0
+AME,1037868.0,current_list,AMETEK INC/,47.0
+AMG,1004434.0,current_list,"AFFILIATED MANAGERS GROUP, INC.",47.0
+AMGN,318154.0,current_list,AMGEN INC,47.0
+AMP,820027.0,current_list,AMERIPRISE FINANCIAL INC,46.0
+AMT,1053507.0,current_list,AMERICAN TOWER CORP /MA/,47.0
+AMTM,2011286.0,current_list,"Amentum Holdings, Inc.",8.0
+AMZN,1018724.0,current_list,AMAZON COM INC,47.0
+AN,350698.0,current_list,"AUTONATION, INC.",49.0
+ANDV,,,,
+ANET,1596532.0,current_list,"Arista Networks, Inc.",49.0
+ANSS,1013462.0,ticker_lookup,ANSYS INC,45.0
+ANTM,,,,
+AON,315293.0,current_list,Aon plc,47.0
+AOS,91142.0,current_list,SMITH A O CORP,50.0
+APA,1841666.0,current_list,APA Corp,26.0
+APC,2080921.0,current_list,ARKO Petroleum Corp.,5.0
+APD,2969.0,current_list,"Air Products & Chemicals, Inc.",49.0
+APH,820313.0,current_list,AMPHENOL CORP /DE/,54.0
+APO,1858681.0,current_list,"Apollo Global Management, Inc.",28.0
+APP,1751008.0,current_list,AppLovin Corp,22.0
+APTV,1521332.0,current_list,Aptiv PLC,53.0
+ARE,1035443.0,current_list,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",48.0
+ARES,1176948.0,current_list,Ares Management Corp,48.0
+ARG,,,,
+ARNC,1790982.0,ticker_lookup,Arconic Corp,15.0
+ATO,731802.0,current_list,ATMOS ENERGY CORP,50.0
+ATVI,718877.0,ticker_lookup,"Activision Blizzard, Inc.",35.0
+AVB,915912.0,ticker_lookup,AVALONBAY COMMUNITIES INC,47.0
+AVGO,1730168.0,current_list,Broadcom Inc.,34.0
+AVY,8818.0,current_list,Avery Dennison Corp,48.0
+AWK,1410636.0,current_list,"American Water Works Company, Inc.",50.0
+AXON,1069183.0,current_list,"AXON ENTERPRISE, INC.",47.0
+AXP,4962.0,current_list,AMERICAN EXPRESS CO,47.0
+AYI,1144215.0,current_list,ACUITY INC. (DE),48.0
+AZO,866787.0,current_list,AUTOZONE INC,47.0
+BA,12927.0,current_list,BOEING CO,52.0
+BAC,70858.0,current_list,BANK OF AMERICA CORP /DE/,48.0
+BALL,9389.0,current_list,BALL Corp,47.0
+BAX,10456.0,current_list,BAXTER INTERNATIONAL INC,51.0
+BBBY,886158.0,ticker_lookup,"20230930-DK-Butterfly-1, Inc.",36.0
+BBT,1108134.0,current_list,Beacon Financial Corp,47.0
+BBWI,701985.0,current_list,"Bath & Body Works, Inc.",74.0
+BBY,764478.0,current_list,BEST BUY CO INC,47.0
+BCR,,,,
+BDX,10795.0,current_list,BECTON DICKINSON & CO,54.0
+BEN,38777.0,current_list,FRANKLIN TEMPLETON INC,47.0
+BF.B,14693.0,current_list,BROWN FORMAN CORP,47.0
+BG,1996862.0,current_list,Bunge Global SA,11.0
+BHF,1685040.0,current_list,"Brighthouse Financial, Inc.",41.0
+BHGE,,,,
+BIIB,875045.0,current_list,BIOGEN INC.,51.0
+BIO,12208.0,current_list,"BIO-RAD LABORATORIES, INC.",47.0
+BK,1390777.0,ticker_lookup,Bank of New York Mellon Corp,50.0
+BKNG,1075531.0,current_list,Booking Holdings Inc.,48.0
+BKR,1701605.0,current_list,Baker Hughes Co,39.0
+BLDR,1316835.0,current_list,"Builders FirstSource, Inc.",51.0
+BLK,2012383.0,current_list,"BlackRock, Inc.",8.0
+BLL,,,,
+BMY,14272.0,current_list,BRISTOL MYERS SQUIBB CO,48.0
+BNY,1390777.0,current_list,Bank of New York Mellon Corp,50.0
+BR,1383312.0,current_list,"BROADRIDGE FINANCIAL SOLUTIONS, INC.",51.0
+BRCM,,,,
+BRK.B,1067983.0,current_list,BERKSHIRE HATHAWAY INC,37.0
+BRO,79282.0,current_list,"BROWN & BROWN, INC.",47.0
+BSX,885725.0,current_list,BOSTON SCIENTIFIC CORP,54.0
+BWA,908255.0,current_list,BORGWARNER INC,42.0
+BX,1393818.0,current_list,Blackstone Inc.,47.0
+BXLT,,,,
+BXP,1037540.0,current_list,"BXP, Inc.",47.0
+C,831001.0,current_list,CITIGROUP INC,51.0
+CA,,,,
+CAG,23217.0,current_list,CONAGRA BRANDS INC.,48.0
+CAH,721371.0,current_list,CARDINAL HEALTH INC,51.0
+CAM,,,,
+CARR,1783180.0,current_list,CARRIER GLOBAL Corp,26.0
+CASY,726958.0,current_list,CASEYS GENERAL STORES INC,72.0
+CAT,18230.0,current_list,CATERPILLAR INC,49.0
+CB,896159.0,current_list,Chubb Ltd,55.0
+CBOE,1374310.0,current_list,"Cboe Global Markets, Inc.",48.0
+CBRE,1138118.0,current_list,"CBRE GROUP, INC.",48.0
+CBS,,,,
+CCE,,,,
+CCEP,1650107.0,current_list,COCA-COLA EUROPACIFIC PARTNERS plc,0.0
+CCI,1051470.0,current_list,CROWN CASTLE INC.,50.0
+CCL,815097.0,current_list,Carnival Corp Ltd.,50.0
+CDAY,1725057.0,ticker_lookup,"Dayforce, Inc.",34.0
+CDNS,813672.0,current_list,CADENCE DESIGN SYSTEMS INC,47.0
+CDW,1402057.0,current_list,CDW Corp,49.0
+CE,1306830.0,current_list,Celanese Corp,47.0
+CEG,1868275.0,current_list,Constellation Energy Corp,18.0
+CELG,,,,
+CERN,,,,
+CF,1324404.0,current_list,"CF Industries Holdings, Inc.",94.0
+CFG,759944.0,current_list,CITIZENS FINANCIAL GROUP INC/RI,47.0
+CHD,313927.0,current_list,CHURCH & DWIGHT CO INC /DE/,47.0
+CHK,895126.0,ticker_lookup,EXPAND ENERGY Corp,48.0
+CHRW,1043277.0,current_list,"C. H. ROBINSON WORLDWIDE, INC.",47.0
+CHTR,1091667.0,current_list,"CHARTER COMMUNICATIONS, INC. /MO/",47.0
+CI,1739940.0,current_list,Cigna Group,30.0
+CIEN,936395.0,current_list,CIENA CORP,49.0
+CINF,20286.0,current_list,CINCINNATI FINANCIAL CORP,55.0
+CL,21665.0,current_list,COLGATE PALMOLIVE CO,46.0
+CLX,21076.0,current_list,CLOROX CO /DE/,48.0
+CMA,28412.0,ticker_lookup,COMERICA INC,47.0
+CMCSA,1166691.0,current_list,COMCAST CORP,47.0
+CME,1156375.0,current_list,CME GROUP INC.,47.0
+CMG,1058090.0,current_list,CHIPOTLE MEXICAN GRILL INC,48.0
+CMI,26172.0,current_list,CUMMINS INC,46.0
+CMS,811156.0,current_list,CMS ENERGY CORP,48.0
+CNC,1071739.0,current_list,CENTENE CORP,57.0
+CNP,1130310.0,current_list,CENTERPOINT ENERGY INC,52.0
+CNX,1070412.0,current_list,CNX Resources Corp,50.0
+COF,927628.0,current_list,CAPITAL ONE FINANCIAL CORP,47.0
+COG,,,,
+COHR,820318.0,current_list,COHERENT CORP.,47.0
+COIN,1679788.0,current_list,"Coinbase Global, Inc.",24.0
+COL,,,,
+COO,711404.0,current_list,"COOPER COMPANIES, INC.",46.0
+COP,1163165.0,current_list,CONOCOPHILLIPS,48.0
+COR,1140859.0,current_list,"Cencora, Inc.",47.0
+COST,909832.0,current_list,COSTCO WHOLESALE CORP /NEW,47.0
+COTY,1024305.0,current_list,COTY INC.,51.0
+CPAY,1175454.0,current_list,"CORPAY, INC.",48.0
+CPB,16732.0,current_list,CAMPBELL'S Co,49.0
+CPGX,,,,
+CPRI,1530721.0,current_list,Capri Holdings Ltd,48.0
+CPRT,900075.0,current_list,COPART INC,47.0
+CPT,906345.0,current_list,CAMDEN PROPERTY TRUST,46.0
+CRH,849395.0,current_list,CRH PUBLIC LTD CO,11.0
+CRL,1100682.0,current_list,"CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",50.0
+CRM,1108524.0,current_list,"Salesforce, Inc.",48.0
+CRWD,1535527.0,current_list,"CrowdStrike Holdings, Inc.",31.0
+CSCO,858877.0,current_list,"CISCO SYSTEMS, INC.",47.0
+CSGP,1057352.0,current_list,"COSTAR GROUP, INC.",48.0
+CSRA,,,,
+CSX,277948.0,current_list,CSX CORP,47.0
+CTAS,723254.0,current_list,CINTAS CORP,46.0
+CTL,,,,
+CTLT,1596783.0,ticker_lookup,"Catalent, Inc.",45.0
+CTRA,858470.0,ticker_lookup,Coterra Energy Inc.,53.0
+CTSH,1058290.0,current_list,COGNIZANT TECHNOLOGY SOLUTIONS CORP,49.0
+CTVA,1755672.0,current_list,"Corteva, Inc.",31.0
+CTXS,877890.0,ticker_lookup,CITRIX SYSTEMS INC,32.0
+CVC,,,,
+CVNA,1690820.0,current_list,CARVANA CO.,40.0
+CVS,64803.0,current_list,CVS HEALTH Corp,53.0
+CVX,93410.0,current_list,CHEVRON CORP,50.0
+CXO,,,,
+CZR,1590895.0,current_list,"Caesars Entertainment, Inc.",49.0
+D,715957.0,current_list,"DOMINION ENERGY, INC",47.0
+DAL,27904.0,current_list,"DELTA AIR LINES, INC.",47.0
+DASH,1792789.0,current_list,"DoorDash, Inc.",23.0
+DAY,,,,
+DD,1666700.0,current_list,"DuPont de Nemours, Inc.",42.0
+DDOG,1561550.0,current_list,"Datadog, Inc.",28.0
+DE,315189.0,current_list,DEERE & CO,47.0
+DECK,910521.0,current_list,DECKERS OUTDOOR CORP,47.0
+DELL,1571996.0,current_list,Dell Technologies Inc.,42.0
+DFS,1393612.0,ticker_lookup,Discover Financial Services,44.0
+DG,29534.0,current_list,DOLLAR GENERAL CORP,48.0
+DGX,1022079.0,current_list,QUEST DIAGNOSTICS INC,49.0
+DHI,882184.0,current_list,HORTON D R INC /DE/,50.0
+DHR,313616.0,current_list,DANAHER CORP /DE/,61.0
+DIS,1744489.0,current_list,Walt Disney Co,30.0
+DISCA,,,,
+DISCK,,,,
+DISH,1001082.0,ticker_lookup,DISH Network CORP,5.0
+DLR,1297996.0,current_list,"DIGITAL REALTY TRUST, INC.",57.0
+DLTR,935703.0,current_list,"DOLLAR TREE, INC.",47.0
+DNB,1799208.0,ticker_lookup,"Dun & Bradstreet Holdings, Inc.",20.0
+DO,949039.0,ticker_lookup,"DIAMOND OFFSHORE DRILLING, INC.",31.0
+DOC,765880.0,current_list,"HEALTHPEAK PROPERTIES, INC.",47.0
+DOV,29905.0,current_list,DOVER Corp,53.0
+DOW,1751788.0,current_list,DOW INC.,29.0
+DPZ,1286681.0,current_list,DOMINOS PIZZA INC,50.0
+DRE,783280.0,ticker_lookup,DUKE REALTY CORP,30.0
+DRI,940944.0,current_list,DARDEN RESTAURANTS INC,48.0
+DTE,936340.0,current_list,DTE ENERGY CO,94.0
+DUK,1326160.0,current_list,Duke Energy CORP,60.0
+DVA,927066.0,current_list,DAVITA INC.,48.0
+DVN,1090012.0,current_list,DEVON ENERGY CORP/DE,50.0
+DWDP,,,,
+DXC,1688568.0,current_list,DXC Technology Co,39.0
+DXCM,1093557.0,current_list,DEXCOM INC,61.0
+EA,712515.0,ticker_lookup,ELECTRONIC ARTS INC.,48.0
+EBAY,1065088.0,current_list,EBAY INC,49.0
+ECHO,1415404.0,current_list,EchoStar CORP,4.0
+ECL,31462.0,current_list,ECOLAB INC.,64.0
+ED,1047862.0,current_list,CONSOLIDATED EDISON INC,48.0
+EFX,33185.0,current_list,EQUIFAX INC,50.0
+EG,1095073.0,current_list,"EVEREST GROUP, LTD.",48.0
+EIX,827052.0,current_list,EDISON INTERNATIONAL,47.0
+EL,1001250.0,current_list,ESTEE LAUDER COMPANIES INC,47.0
+ELV,1156039.0,current_list,"Elevance Health, Inc.",51.0
+EMC,,,,
+EME,105634.0,current_list,"EMCOR Group, Inc.",48.0
+EMN,915389.0,current_list,EASTMAN CHEMICAL CO,49.0
+EMR,32604.0,current_list,EMERSON ELECTRIC CO,58.0
+ENDP,,,,
+ENPH,1463101.0,current_list,"Enphase Energy, Inc.",49.0
+EOG,821189.0,current_list,EOG RESOURCES INC,54.0
+EPAM,1352010.0,current_list,"EPAM Systems, Inc.",48.0
+EQIX,1101239.0,current_list,EQUINIX INC,47.0
+EQR,906107.0,ticker_lookup,VIVMARK RESIDENTIAL,47.0
+EQT,33213.0,current_list,EQT Corp,67.0
+ERIE,922621.0,current_list,ERIE INDEMNITY CO,47.0
+ES,72741.0,current_list,EVERSOURCE ENERGY,52.0
+ESRX,,,,
+ESS,920522.0,current_list,"ESSEX PROPERTY TRUST, INC.",47.0
+ESV,,,,
+ETFC,,,,
+ETN,1551182.0,current_list,Eaton Corp plc,50.0
+ETR,65984.0,current_list,ENTERGY CORP /DE/,53.0
+ETSY,1370637.0,current_list,ETSY INC,48.0
+EVHC,,,,
+EVRG,1711269.0,current_list,"Evergy, Inc.",33.0
+EW,1099800.0,current_list,Edwards Lifesciences Corp,47.0
+EXC,1109357.0,current_list,EXELON CORP,46.0
+EXE,895126.0,current_list,EXPAND ENERGY Corp,48.0
+EXPD,746515.0,current_list,EXPEDITORS INTERNATIONAL OF WASHINGTON INC,61.0
+EXPE,1324424.0,current_list,"Expedia Group, Inc.",47.0
+EXR,1289490.0,current_list,Extra Space Storage Inc.,46.0
+F,37996.0,current_list,FORD MOTOR CO,50.0
+FANG,1539838.0,current_list,"Diamondback Energy, Inc.",65.0
+FAST,815556.0,current_list,FASTENAL CO,47.0
+FB,,,,
+FBHS,1519751.0,ticker_lookup,"Fortune Brands Innovations, Inc.",48.0
+FCX,831259.0,current_list,FREEPORT-MCMORAN INC,52.0
+FDS,1013237.0,current_list,FACTSET RESEARCH SYSTEMS INC,47.0
+FDX,1048911.0,current_list,FEDEX CORP,52.0
+FDXF,2082247.0,current_list,"FedEx Freight Holding Company, Inc.",2.0
+FE,1031296.0,current_list,FIRSTENERGY CORP,49.0
+FERG,2011641.0,current_list,Ferguson Enterprises Inc. /DE/,9.0
+FFIV,1048695.0,current_list,"F5, INC.",49.0
+FI,,,,
+FICO,814547.0,current_list,FAIR ISAAC CORP,47.0
+FIS,1136893.0,current_list,"Fidelity National Information Services, Inc.",55.0
+FISV,798354.0,current_list,FISERV INC,52.0
+FITB,35527.0,current_list,FIFTH THIRD BANCORP,47.0
+FIX,1035983.0,current_list,COMFORT SYSTEMS USA INC,47.0
+FL,850209.0,ticker_lookup,"FOOT LOCKER, INC.",46.0
+FLEX,866374.0,current_list,FLEX LTD.,47.0
+FLIR,,,,
+FLR,1124198.0,current_list,FLUOR CORP,51.0
+FLS,30625.0,current_list,FLOWSERVE CORP,39.0
+FLT,1175454.0,ticker_lookup,"CORPAY, INC.",48.0
+FMC,37785.0,current_list,FMC CORP,55.0
+FOSL,883569.0,current_list,"Fossil Group, Inc.",49.0
+FOX,1754301.0,current_list,Fox Corp,31.0
+FOXA,1754301.0,current_list,Fox Corp,31.0
+FRC,1132979.0,ticker_lookup,FIRST REPUBLIC BANK,0.0
+FRT,34903.0,current_list,FEDERAL REALTY INVESTMENT TRUST,47.0
+FSLR,1274494.0,current_list,"FIRST SOLAR, INC.",49.0
+FTI,1681459.0,current_list,TechnipFMC plc,39.0
+FTNT,1262039.0,current_list,"Fortinet, Inc.",49.0
+FTR,,,,
+FTV,1659166.0,current_list,Fortive Corp,46.0
+GAS,,,,
+GD,40533.0,current_list,GENERAL DYNAMICS CORP,47.0
+GDDY,1609711.0,current_list,GoDaddy Inc.,48.0
+GE,40545.0,current_list,GENERAL ELECTRIC CO,50.0
+GEHC,1932393.0,current_list,GE HealthCare Technologies Inc.,17.0
+GEN,849399.0,current_list,Gen Digital Inc.,50.0
+GEV,1996810.0,current_list,GE Vernova Inc.,9.0
+GGP,,,,
+GILD,882095.0,current_list,"GILEAD SCIENCES, INC.",49.0
+GIS,40704.0,current_list,GENERAL MILLS INC,48.0
+GL,320335.0,current_list,GLOBE LIFE INC.,47.0
+GLW,24741.0,current_list,CORNING INC /NY,48.0
+GM,1467858.0,current_list,General Motors Co,50.0
+GMCR,,,,
+GME,1326380.0,current_list,GameStop Corp.,52.0
+GNRC,1474735.0,current_list,GENERAC HOLDINGS INC.,48.0
+GOOG,1652044.0,current_list,Alphabet Inc.,45.0
+GOOGL,1652044.0,current_list,Alphabet Inc.,45.0
+GPC,40987.0,current_list,GENUINE PARTS CO,48.0
+GPN,1123360.0,current_list,GLOBAL PAYMENTS INC,51.0
+GPS,39911.0,ticker_lookup,GAP INC,58.0
+GRMN,1121788.0,current_list,GARMIN LTD,48.0
+GS,886982.0,current_list,GOLDMAN SACHS GROUP INC,50.0
+GT,42582.0,current_list,GOODYEAR TIRE & RUBBER CO /OH/,51.0
+GWW,277135.0,current_list,"W.W. GRAINGER, INC.",47.0
+HAL,45012.0,current_list,HALLIBURTON CO,48.0
+HAR,,,,
+HAS,46080.0,current_list,"HASBRO, INC.",49.0
+HBAN,49196.0,current_list,HUNTINGTON BANCSHARES INC /MD/,47.0
+HBI,1359841.0,ticker_lookup,Hanesbrands Inc.,46.0
+HCA,860730.0,current_list,"HCA Healthcare, Inc.",57.0
+HCP,1720671.0,ticker_lookup,"HashiCorp, Inc.",12.0
+HD,354950.0,current_list,"HOME DEPOT, INC.",47.0
+HES,4447.0,ticker_lookup,HESS CORP,42.0
+HFC,,,,
+HIG,874766.0,current_list,"HARTFORD INSURANCE GROUP, INC.",52.0
+HII,1501585.0,current_list,"HUNTINGTON INGALLS INDUSTRIES, INC.",47.0
+HLT,1585689.0,current_list,Hilton Worldwide Holdings Inc.,50.0
+HOG,793952.0,current_list,"HARLEY-DAVIDSON, INC.",48.0
+HOLX,859737.0,ticker_lookup,HOLOGIC INC,56.0
+HON,773840.0,current_list,HONEYWELL INTERNATIONAL INC,58.0
+HONA,2089271.0,current_list,Honeywell Aerospace Inc.,2.0
+HOOD,1783879.0,current_list,"Robinhood Markets, Inc.",33.0
+HOT,,,,
+HP,46765.0,current_list,"Helmerich & Payne, Inc.",50.0
+HPE,1645590.0,current_list,Hewlett Packard Enterprise Co,54.0
+HPQ,47217.0,current_list,HP INC,48.0
+HRB,12659.0,current_list,H&R BLOCK INC,48.0
+HRL,48465.0,current_list,HORMEL FOODS CORP /DE/,49.0
+HRS,,,,
+HSIC,1000228.0,current_list,HENRY SCHEIN INC,49.0
+HST,1070750.0,current_list,"HOST HOTELS & RESORTS, INC.",47.0
+HSY,47111.0,current_list,HERSHEY CO,48.0
+HUBB,48898.0,current_list,HUBBELL INC,48.0
+HUM,49071.0,current_list,HUMANA INC,52.0
+HWM,4281.0,current_list,Howmet Aerospace Inc.,57.0
+IBKR,1381197.0,current_list,"Interactive Brokers Group, Inc.",48.0
+IBM,51143.0,current_list,INTERNATIONAL BUSINESS MACHINES CORP,57.0
+ICE,1571949.0,current_list,"Intercontinental Exchange, Inc.",48.0
+IDXX,874716.0,current_list,IDEXX LABORATORIES INC /DE,48.0
+IEX,832101.0,current_list,IDEX CORP /DE/,47.0
+IFF,51253.0,current_list,INTERNATIONAL FLAVORS & FRAGRANCES INC,49.0
+ILMN,1110803.0,current_list,"ILLUMINA, INC.",67.0
+INCY,879169.0,current_list,INCYTE CORP,47.0
+INFO,,,,
+INTC,50863.0,current_list,INTEL CORP,48.0
+INTU,896878.0,current_list,INTUIT INC.,56.0
+INVH,1687229.0,current_list,Invitation Homes Inc.,38.0
+IP,51434.0,current_list,INTERNATIONAL PAPER CO /NEW/,47.0
+IPG,51644.0,ticker_lookup,"INTERPUBLIC GROUP OF COMPANIES, INC.",86.0
+IPGP,1111928.0,current_list,IPG PHOTONICS CORP,50.0
+IQV,1478242.0,current_list,IQVIA HOLDINGS INC.,47.0
+IR,1699150.0,current_list,Ingersoll Rand Inc.,38.0
+IRM,1020569.0,current_list,IRON MOUNTAIN INC,47.0
+ISRG,1035267.0,current_list,INTUITIVE SURGICAL INC,60.0
+IT,749251.0,current_list,GARTNER INC,48.0
+ITW,49826.0,current_list,ILLINOIS TOOL WORKS INC,46.0
+IVZ,914208.0,current_list,Invesco Ltd.,47.0
+J,52988.0,current_list,JACOBS SOLUTIONS INC.,52.0
+JBHT,728535.0,current_list,HUNT J B TRANSPORT SERVICES INC,50.0
+JBL,898293.0,current_list,JABIL INC,47.0
+JCI,833444.0,current_list,Johnson Controls International plc,50.0
+JEC,,,,
+JEF,96223.0,current_list,Jefferies Financial Group Inc.,59.0
+JKHY,779152.0,current_list,JACK HENRY & ASSOCIATES INC,60.0
+JNJ,200406.0,current_list,JOHNSON & JOHNSON,50.0
+JNPR,1043604.0,ticker_lookup,JUNIPER NETWORKS INC,44.0
+JPM,19617.0,current_list,JPMORGAN CHASE & CO,47.0
+JWN,72333.0,ticker_lookup,NORDSTROM INC,41.0
+K,55067.0,ticker_lookup,KELLANOVA,44.0
+KDP,1418135.0,current_list,Keurig Dr Pepper Inc.,45.0
+KEY,91576.0,current_list,KEYCORP /NEW/,46.0
+KEYS,1601046.0,current_list,"Keysight Technologies, Inc.",47.0
+KHC,1637459.0,current_list,Kraft Heinz Co,49.0
+KIM,879101.0,current_list,KIMCO REALTY CORP,46.0
+KKR,1404912.0,current_list,KKR & Co. Inc.,49.0
+KLAC,319201.0,current_list,KLA CORP,49.0
+KMB,55785.0,current_list,KIMBERLY CLARK CORP,47.0
+KMI,1506307.0,current_list,"KINDER MORGAN, INC.",47.0
+KMX,1170010.0,current_list,CARMAX INC,48.0
+KO,21344.0,current_list,COCA COLA CO,47.0
+KORS,,,,
+KR,56873.0,current_list,KROGER CO,48.0
+KSS,885639.0,current_list,KOHLS Corp,52.0
+KSU,,,,
+KVUE,1944048.0,current_list,Kenvue Inc.,14.0
+L,60086.0,current_list,LOEWS CORP,47.0
+LB,1995807.0,current_list,LandBridge Co LLC,10.0
+LDOS,1336920.0,current_list,"Leidos Holdings, Inc.",47.0
+LEG,58492.0,ticker_lookup,LEGGETT & PLATT INC,51.0
+LEN,920760.0,current_list,LENNAR CORP /NEW/,50.0
+LH,920148.0,current_list,LABCORP HOLDINGS INC.,46.0
+LHX,202058.0,current_list,"L3HARRIS TECHNOLOGIES, INC. /DE/",52.0
+LII,1069202.0,current_list,LENNOX INTERNATIONAL INC,47.0
+LIN,1707925.0,current_list,LINDE PLC,31.0
+LITE,1633978.0,current_list,Lumentum Holdings Inc.,48.0
+LKQ,1065696.0,current_list,LKQ CORP,50.0
+LLL,1546383.0,ticker_lookup,JX Luxventure Group Inc.,0.0
+LLTC,,,,
+LLY,59478.0,current_list,ELI LILLY & Co,53.0
+LM,,,,
+LMT,936468.0,current_list,LOCKHEED MARTIN CORP,48.0
+LNC,59558.0,current_list,LINCOLN NATIONAL CORP,48.0
+LNT,352541.0,current_list,ALLIANT ENERGY CORP,49.0
+LOW,60667.0,current_list,LOWES COMPANIES INC,47.0
+LRCX,707549.0,current_list,LAM RESEARCH CORP,46.0
+LULU,1397187.0,current_list,lululemon athletica inc.,47.0
+LUMN,18926.0,current_list,"Lumen Technologies, Inc.",48.0
+LUV,92380.0,current_list,SOUTHWEST AIRLINES CO,68.0
+LVLT,,,,
+LVS,1300514.0,current_list,LAS VEGAS SANDS CORP,49.0
+LW,1679273.0,current_list,"Lamb Weston Holdings, Inc.",39.0
+LYB,1489393.0,current_list,LyondellBasell Industries N.V.,48.0
+LYV,1335258.0,current_list,"Live Nation Entertainment, Inc.",47.0
+M,794367.0,current_list,"Macy's, Inc.",52.0
+MA,1141391.0,current_list,Mastercard Inc,48.0
+MAA,912595.0,current_list,MID AMERICA APARTMENT COMMUNITIES INC.,46.0
+MAC,912242.0,current_list,MACERICH CO,48.0
+MAR,1048286.0,current_list,MARRIOTT INTERNATIONAL INC /MD/,47.0
+MAS,62996.0,current_list,MASCO CORP /DE/,48.0
+MAT,63276.0,current_list,MATTEL INC /DE/,48.0
+MCD,63908.0,current_list,MCDONALDS CORP,49.0
+MCHP,827054.0,current_list,MICROCHIP TECHNOLOGY INC,53.0
+MCK,927653.0,current_list,MCKESSON CORP,48.0
+MCO,1059556.0,current_list,MOODYS CORP /DE/,49.0
+MDLZ,1103982.0,current_list,"Mondelez International, Inc.",48.0
+MDT,1613103.0,current_list,Medtronic plc,48.0
+MET,1099219.0,current_list,METLIFE INC,77.0
+META,1326801.0,current_list,"Meta Platforms, Inc.",47.0
+MGM,789570.0,current_list,MGM Resorts International,52.0
+MHK,851968.0,current_list,MOHAWK INDUSTRIES INC,47.0
+MJN,,,,
+MKC,63754.0,current_list,MCCORMICK & CO INC,47.0
+MKTX,1278021.0,current_list,MARKETAXESS HOLDINGS INC,48.0
+MLM,916076.0,current_list,MARTIN MARIETTA MATERIALS INC,49.0
+MMC,62709.0,ticker_lookup,"MARSH & MCLENNAN COMPANIES, INC.",47.0
+MMM,66740.0,current_list,3M CO,56.0
+MNK,,,,
+MNST,865752.0,current_list,Monster Beverage Corp,47.0
+MO,764180.0,current_list,"ALTRIA GROUP, INC.",48.0
+MOH,1179929.0,current_list,"MOLINA HEALTHCARE, INC.",48.0
+MON,1828325.0,ticker_lookup,Monument Circle Acquisition Corp.,0.0
+MOS,1285785.0,current_list,MOSAIC CO,62.0
+MPC,1510295.0,current_list,Marathon Petroleum Corp,54.0
+MPWR,1280452.0,current_list,"MONOLITHIC POWER SYSTEMS, INC.",47.0
+MRK,310158.0,current_list,"Merck & Co., Inc.",48.0
+MRNA,1682852.0,current_list,"Moderna, Inc.",39.0
+MRO,101778.0,ticker_lookup,MARATHON OIL CORP,41.0
+MRSH,62709.0,current_list,"MARSH & MCLENNAN COMPANIES, INC.",47.0
+MRVL,1835632.0,current_list,"Marvell Technology, Inc.",24.0
+MS,895421.0,current_list,MORGAN STANLEY,47.0
+MSCI,1408198.0,current_list,MSCI Inc.,48.0
+MSFT,789019.0,current_list,MICROSOFT CORP,47.0
+MSI,68505.0,current_list,"Motorola Solutions, Inc.",48.0
+MTB,36270.0,current_list,M&T BANK CORP,47.0
+MTCH,891103.0,current_list,"Match Group, Inc.",48.0
+MTD,1037646.0,current_list,METTLER TOLEDO INTERNATIONAL INC/,49.0
+MU,723125.0,current_list,MICRON TECHNOLOGY INC,48.0
+MUR,717423.0,current_list,MURPHY OIL CORP,50.0
+MXIM,,,,
+MYL,,,,
+NAVI,1593538.0,current_list,NAVIENT CORP,50.0
+NBL,,,,
+NCLH,1513761.0,current_list,Norwegian Cruise Line Holdings Ltd.,55.0
+NDAQ,1120193.0,current_list,"NASDAQ, INC.",48.0
+NDSN,72331.0,current_list,NORDSON CORP,48.0
+NEE,753308.0,current_list,NEXTERA ENERGY INC,48.0
+NEM,1164727.0,current_list,NEWMONT Corp /DE/,47.0
+NFLX,1065280.0,current_list,NETFLIX INC,49.0
+NFX,,,,
+NI,1111711.0,current_list,NISOURCE INC.,47.0
+NKE,320187.0,current_list,"NIKE, Inc.",62.0
+NKTR,906709.0,current_list,NEKTAR THERAPEUTICS,60.0
+NLOK,849399.0,ticker_lookup,Gen Digital Inc.,50.0
+NLSN,1492633.0,ticker_lookup,Nielsen Holdings plc,31.0
+NOC,1133421.0,current_list,NORTHROP GRUMMAN CORP /DE/,47.0
+NOV,1021860.0,current_list,NOV Inc.,52.0
+NOW,1373715.0,current_list,"ServiceNow, Inc.",49.0
+NRG,1013871.0,current_list,"NRG ENERGY, INC.",48.0
+NSC,702165.0,current_list,NORFOLK SOUTHERN CORP,50.0
+NTAP,1002047.0,current_list,"NetApp, Inc.",48.0
+NTRS,73124.0,current_list,NORTHERN TRUST CORP,47.0
+NUE,73309.0,current_list,NUCOR CORP,46.0
+NVDA,1045810.0,current_list,NVIDIA CORP,49.0
+NVR,906163.0,current_list,NVR INC,47.0
+NWL,814453.0,current_list,NEWELL BRANDS INC.,52.0
+NWS,1564708.0,current_list,NEWS CORP,49.0
+NWSA,1564708.0,current_list,NEWS CORP,49.0
+NXPI,1413447.0,current_list,NXP Semiconductors N.V.,30.0
+O,726728.0,current_list,REALTY INCOME CORP,49.0
+ODFL,878927.0,current_list,"OLD DOMINION FREIGHT LINE, INC.",47.0
+OGN,1821825.0,current_list,Organon & Co.,20.0
+OI,812074.0,current_list,"O-I Glass, Inc. /DE/",50.0
+OKE,1039684.0,current_list,ONEOK INC /NEW/,47.0
+OMC,29989.0,current_list,OMNICOM GROUP INC.,47.0
+ON,1097864.0,current_list,ON SEMICONDUCTOR CORP,47.0
+ORCL,1341439.0,current_list,ORACLE CORP,48.0
+ORLY,898173.0,current_list,O REILLY AUTOMOTIVE INC,47.0
+OTIS,1781335.0,current_list,Otis Worldwide Corp,26.0
+OXY,797468.0,current_list,OCCIDENTAL PETROLEUM CORP /DE/,63.0
+PANW,1327567.0,current_list,Palo Alto Networks Inc,47.0
+PARA,1826011.0,current_list,"Banzai International, Inc.",5.0
+PAYC,1590955.0,current_list,"Paycom Software, Inc.",47.0
+PAYX,723531.0,current_list,PAYCHEX INC,47.0
+PBCT,,,,
+PBI,78814.0,current_list,PITNEY BOWES INC /DE/,49.0
+PCAR,75362.0,current_list,PACCAR INC,47.0
+PCG,1004980.0,current_list,PG&E Corp,47.0
+PCL,,,,
+PCP,,,,
+PDCO,891024.0,ticker_lookup,"PATTERSON COMPANIES, INC.",42.0
+PEAK,765880.0,ticker_lookup,"HEALTHPEAK PROPERTIES, INC.",47.0
+PEG,788784.0,current_list,PUBLIC SERVICE ENTERPRISE GROUP INC,47.0
+PENN,921738.0,current_list,"PENN Entertainment, Inc.",49.0
+PEP,77476.0,current_list,PEPSICO INC,47.0
+PFE,78003.0,current_list,PFIZER INC,51.0
+PFG,1126328.0,current_list,PRINCIPAL FINANCIAL GROUP INC,52.0
+PG,80424.0,current_list,PROCTER & GAMBLE Co,47.0
+PGR,80661.0,current_list,PROGRESSIVE CORP/OH/,47.0
+PH,76334.0,current_list,Parker-Hannifin Corp,46.0
+PHM,822416.0,current_list,PULTEGROUP INC/MI/,47.0
+PKG,75677.0,current_list,PACKAGING CORP OF AMERICA,47.0
+PKI,31791.0,ticker_lookup,"REVVITY, INC.",57.0
+PLD,1045609.0,current_list,"Prologis, Inc.",47.0
+PLTR,1321655.0,current_list,Palantir Technologies Inc.,24.0
+PM,1413329.0,current_list,Philip Morris International Inc.,47.0
+PNC,713676.0,current_list,"PNC FINANCIAL SERVICES GROUP, INC.",97.0
+PNR,77360.0,current_list,PENTAIR plc,51.0
+PNW,764622.0,current_list,PINNACLE WEST CAPITAL CORP,47.0
+PODD,1145197.0,current_list,INSULET CORP,51.0
+POM,1877971.0,current_list,POMDOCTOR Ltd,0.0
+POOL,945841.0,current_list,POOL CORP,46.0
+PPG,79879.0,current_list,PPG INDUSTRIES INC,56.0
+PPL,922224.0,current_list,PPL Corp,53.0
+PRGO,1585364.0,current_list,PERRIGO Co plc,60.0
+PRU,1137774.0,current_list,PRUDENTIAL FINANCIAL INC,56.0
+PSA,1393311.0,current_list,Public Storage,46.0
+PSKY,2041610.0,current_list,Paramount Skydance Corp,4.0
+PSX,1534701.0,current_list,Phillips 66,48.0
+PTC,857005.0,current_list,PTC INC.,50.0
+PVH,78239.0,current_list,PVH CORP. /DE/,51.0
+PWR,1050915.0,current_list,"QUANTA SERVICES, INC.",49.0
+PX,1841968.0,ticker_lookup,"Ridgepost Capital, Inc.",25.0
+PXD,1038357.0,ticker_lookup,PIONEER NATURAL RESOURCES CO,81.0
+PYPL,1633917.0,current_list,"PayPal Holdings, Inc.",50.0
+Q,2058873.0,current_list,"Qnity Electronics, Inc.",5.0
+QCOM,804328.0,current_list,QUALCOMM INC/DE,47.0
+QRVO,1604778.0,current_list,"Qorvo, Inc.",49.0
+R,85961.0,current_list,RYDER SYSTEM INC,50.0
+RAI,,,,
+RCL,884887.0,current_list,ROYAL CARIBBEAN CRUISES LTD,49.0
+RDDT,1713445.0,current_list,"Reddit, Inc.",10.0
+RE,1095073.0,ticker_lookup,"EVEREST GROUP, LTD.",48.0
+REG,910606.0,current_list,REGENCY CENTERS CORP,50.0
+REGN,872589.0,current_list,"REGENERON PHARMACEUTICALS, INC.",66.0
+RF,1281761.0,current_list,REGIONS FINANCIAL CORP,48.0
+RHI,315213.0,current_list,ROBERT HALF INC.,47.0
+RHT,,,,
+RIG,1451505.0,current_list,Transocean Ltd.,47.0
+RJF,720005.0,current_list,RAYMOND JAMES FINANCIAL INC,62.0
+RL,1037038.0,current_list,RALPH LAUREN CORP,47.0
+RMD,943819.0,current_list,RESMED INC,48.0
+ROK,1024478.0,current_list,"ROCKWELL AUTOMATION, INC",48.0
+ROL,84839.0,current_list,ROLLINS INC,45.0
+ROP,882835.0,current_list,ROPER TECHNOLOGIES INC,46.0
+ROST,745732.0,current_list,"ROSS STORES, INC.",47.0
+RRC,315852.0,current_list,RANGE RESOURCES CORP,76.0
+RSG,1060391.0,current_list,"REPUBLIC SERVICES, INC.",47.0
+RTN,,,,
+RTX,101829.0,current_list,RTX Corp,46.0
+RVTY,31791.0,current_list,"REVVITY, INC.",57.0
+SATS,1415404.0,ticker_lookup,EchoStar CORP,4.0
+SBAC,1034054.0,current_list,SBA COMMUNICATIONS CORP,47.0
+SBNY,1288784.0,ticker_lookup,Signature Bank Corp,0.0
+SBUX,829224.0,current_list,STARBUCKS CORP,49.0
+SCG,,,,
+SCHW,316709.0,current_list,SCHWAB CHARLES CORP,46.0
+SE,1703399.0,current_list,Sea Ltd,0.0
+SEDG,1419612.0,current_list,"SOLAREDGE TECHNOLOGIES, INC.",47.0
+SEE,1012100.0,ticker_lookup,SEALED AIR CORP/DE,48.0
+SHW,89800.0,current_list,SHERWIN WILLIAMS CO,49.0
+SIG,832988.0,current_list,SIGNET JEWELERS LTD,54.0
+SIVB,719739.0,ticker_lookup,SVB FINANCIAL GROUP,34.0
+SJM,91419.0,current_list,J M SMUCKER Co,47.0
+SLB,87347.0,current_list,SLB LIMITED/NV,47.0
+SLG,1040971.0,current_list,SL GREEN REALTY CORP,47.0
+SMCI,1375365.0,current_list,"Super Micro Computer, Inc.",64.0
+SNA,91440.0,current_list,Snap-on Inc,47.0
+SNDK,2023554.0,current_list,Sandisk Corp,6.0
+SNI,,,,
+SNPS,883241.0,current_list,SYNOPSYS INC,49.0
+SO,92122.0,current_list,SOUTHERN CO,58.0
+SOLS,2064953.0,current_list,Solstice Advanced Materials Inc.,4.0
+SOLV,1964738.0,current_list,Solventum Corp,10.0
+SPG,1063761.0,current_list,SIMON PROPERTY GROUP INC.,46.0
+SPGI,64040.0,current_list,S&P Global Inc.,49.0
+SPLS,,,,
+SRCL,861878.0,ticker_lookup,STERICYCLE INC,38.0
+SRE,1032208.0,current_list,SEMPRA,47.0
+STE,1757898.0,current_list,STERIS plc,31.0
+STI,1881551.0,current_list,Solidion Technology Inc.,4.0
+STJ,,,,
+STLD,1022671.0,current_list,STEEL DYNAMICS INC,46.0
+STT,93751.0,current_list,STATE STREET CORP,51.0
+STX,1137789.0,current_list,Seagate Technology Holdings plc,56.0
+STZ,16918.0,current_list,"CONSTELLATION BRANDS, INC.",53.0
+SW,2005951.0,current_list,Smurfit Westrock plc,10.0
+SWK,93556.0,current_list,"STANLEY BLACK & DECKER, INC.",49.0
+SWKS,4127.0,current_list,"SKYWORKS SOLUTIONS, INC.",49.0
+SWN,7332.0,ticker_lookup,SOUTHWESTERN ENERGY CO,41.0
+SYF,1601712.0,current_list,Synchrony Financial,48.0
+SYK,310764.0,current_list,STRYKER CORP,51.0
+SYMC,,,,
+SYY,96021.0,current_list,SYSCO CORP,49.0
+T,732717.0,current_list,AT&T INC.,50.0
+TAP,24545.0,current_list,MOLSON COORS BEVERAGE CO,48.0
+TDC,816761.0,current_list,TERADATA CORP /DE/,49.0
+TDG,1260221.0,current_list,TransDigm Group INC,52.0
+TDY,1094285.0,current_list,TELEDYNE TECHNOLOGIES INC,50.0
+TE,1992243.0,current_list,T1 Energy Inc.,13.0
+TECH,842023.0,current_list,BIO-TECHNE Corp,47.0
+TEL,1385157.0,current_list,TE Connectivity plc,50.0
+TER,97210.0,current_list,"TERADYNE, INC",47.0
+TFC,92230.0,current_list,TRUIST FINANCIAL CORP,47.0
+TFX,96943.0,current_list,TELEFLEX INC,48.0
+TGNA,39899.0,ticker_lookup,TEGNA INC,48.0
+TGT,27419.0,current_list,TARGET CORP,48.0
+THC,70318.0,current_list,TENET HEALTHCARE CORP,60.0
+TIF,,,,
+TJX,109198.0,current_list,TJX COMPANIES INC /DE/,47.0
+TKO,1973266.0,current_list,"TKO Group Holdings, Inc.",15.0
+TMK,,,,
+TMO,97745.0,current_list,THERMO FISHER SCIENTIFIC INC.,50.0
+TMUS,1283699.0,current_list,"T-Mobile US, Inc.",47.0
+TPL,1811074.0,current_list,Texas Pacific Land Corp,23.0
+TPR,1116132.0,current_list,"TAPESTRY, INC.",51.0
+TRGP,1389170.0,current_list,Targa Resources Corp.,50.0
+TRIP,1526520.0,current_list,"TripAdvisor, Inc.",47.0
+TRMB,864749.0,current_list,TRIMBLE INC.,52.0
+TROW,1113169.0,current_list,PRICE T ROWE GROUP INC,23.0
+TRV,86312.0,current_list,"TRAVELERS COMPANIES, INC.",49.0
+TSCO,916365.0,current_list,TRACTOR SUPPLY CO /DE/,52.0
+TSLA,1318605.0,current_list,"Tesla, Inc.",97.0
+TSN,100493.0,current_list,"TYSON FOODS, INC.",47.0
+TSS,,,,
+TT,1466258.0,current_list,Trane Technologies plc,47.0
+TTD,1671933.0,current_list,"Trade Desk, Inc.",41.0
+TTWO,946581.0,current_list,TAKE TWO INTERACTIVE SOFTWARE INC,46.0
+TWC,,,,
+TWTR,1418091.0,ticker_lookup,"TWITTER, INC.",32.0
+TWX,,,,
+TXN,97476.0,current_list,TEXAS INSTRUMENTS INC,48.0
+TXT,217346.0,current_list,TEXTRON INC,46.0
+TYL,860731.0,current_list,TYLER TECHNOLOGIES INC,48.0
+UA,1336917.0,current_list,"Under Armour, Inc.",48.0
+UAA,1336917.0,current_list,"Under Armour, Inc.",48.0
+UAL,100517.0,current_list,"United Airlines Holdings, Inc.",69.0
+UBER,1543151.0,current_list,"Uber Technologies, Inc",36.0
+UDR,74208.0,current_list,"UDR, Inc.",47.0
+UHS,352915.0,current_list,UNIVERSAL HEALTH SERVICES INC,47.0
+ULTA,1403568.0,current_list,"Ulta Beauty, Inc.",47.0
+UNH,731766.0,current_list,UNITEDHEALTH GROUP INC,47.0
+UNM,5513.0,current_list,Unum Group,47.0
+UNP,100885.0,current_list,UNION PACIFIC CORP,49.0
+UPS,1090727.0,current_list,UNITED PARCEL SERVICE INC,48.0
+URBN,912615.0,current_list,URBAN OUTFITTERS INC,12.0
+URI,1067701.0,current_list,"UNITED RENTALS, INC.",47.0
+USB,36104.0,current_list,US BANCORP \DE\,47.0
+UTX,,,,
+V,1403161.0,current_list,VISA INC.,47.0
+VAR,,,,
+VEEV,1393052.0,current_list,VEEVA SYSTEMS INC,50.0
+VFC,103379.0,current_list,V F CORP,49.0
+VIAB,,,,
+VIAC,,,,
+VICI,1705696.0,current_list,VICI PROPERTIES INC.,36.0
+VLO,1035002.0,current_list,VALERO ENERGY CORP/TX,50.0
+VLTO,1967680.0,current_list,Veralto Corp,12.0
+VMC,1396009.0,current_list,Vulcan Materials CO,44.0
+VMRK,906107.0,current_list,VIVMARK RESIDENTIAL,47.0
+VNO,899689.0,current_list,VORNADO REALTY TRUST,61.0
+VNT,1786842.0,current_list,Vontier Corp,29.0
+VRSK,1442145.0,current_list,"Verisk Analytics, Inc.",46.0
+VRSN,1014473.0,current_list,VERISIGN INC/CA,48.0
+VRT,1674101.0,current_list,Vertiv Holdings Co,28.0
+VRTX,875320.0,current_list,VERTEX PHARMACEUTICALS INC / MA,50.0
+VST,1692819.0,current_list,Vistra Corp.,37.0
+VTR,740260.0,current_list,"Ventas, Inc.",47.0
+VTRS,1792044.0,current_list,Viatris Inc,23.0
+VZ,732712.0,current_list,VERIZON COMMUNICATIONS INC,47.0
+WAB,943452.0,current_list,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP,49.0
+WAT,1000697.0,current_list,WATERS CORP /DE/,48.0
+WBA,1618921.0,ticker_lookup,"Walgreens Boots Alliance, Inc.",43.0
+WBD,1437107.0,current_list,"Warner Bros. Discovery, Inc.",48.0
+WCG,,,,
+WDAY,1327811.0,current_list,"Workday, Inc.",50.0
+WDC,106040.0,current_list,WESTERN DIGITAL CORP,49.0
+WEC,783325.0,current_list,"WEC ENERGY GROUP, INC.",50.0
+WELL,766704.0,current_list,WELLTOWER INC.,61.0
+WFC,72971.0,current_list,WELLS FARGO & COMPANY/MN,50.0
+WFM,,,,
+WHR,106640.0,current_list,WHIRLPOOL CORP /DE/,49.0
+WLTW,,,,
+WM,823768.0,current_list,WASTE MANAGEMENT INC,47.0
+WMB,107263.0,current_list,"WILLIAMS COMPANIES, INC.",47.0
+WMT,104169.0,current_list,Walmart Inc.,47.0
+WRB,11544.0,current_list,BERKLEY W R CORP,46.0
+WRK,1732845.0,ticker_lookup,WestRock Co,23.0
+WSM,719955.0,current_list,WILLIAMS SONOMA INC,47.0
+WST,105770.0,current_list,WEST PHARMACEUTICAL SERVICES INC,50.0
+WTW,1140536.0,current_list,WILLIS TOWERS WATSON PLC,48.0
+WU,1365135.0,current_list,Western Union CO,48.0
+WY,106535.0,current_list,WEYERHAEUSER CO,46.0
+WYND,,,,
+WYNN,1174922.0,current_list,WYNN RESORTS LTD,49.0
+XEC,,,,
+XEL,72903.0,current_list,XCEL ENERGY INC,47.0
+XL,1772720.0,ticker_lookup,SPRUCE POWER HOLDING CORP,24.0
+XLNX,,,,
+XOM,2115436.0,current_list,ExxonMobil Holdings Corp,1.0
+XRAY,818479.0,current_list,DENTSPLY SIRONA Inc.,53.0
+XRX,1770450.0,current_list,Xerox Holdings Corp,29.0
+XYL,1524472.0,current_list,Xylem Inc.,50.0
+XYZ,1512673.0,current_list,"Block, Inc.",43.0
+YUM,1041061.0,current_list,YUM BRANDS INC,49.0
+ZBH,1136869.0,current_list,"ZIMMER BIOMET HOLDINGS, INC.",51.0
+ZBRA,877212.0,current_list,ZEBRA TECHNOLOGIES CORP,47.0
+ZION,109380.0,current_list,"ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/",49.0
+ZTS,1555280.0,current_list,Zoetis Inc.,48.0
