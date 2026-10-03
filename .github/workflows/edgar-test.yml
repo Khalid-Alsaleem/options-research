@@ -20,6 +20,8 @@ jobs:
         run: pip install requests pandas
 
       - name: Run EDGAR test
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
         run: python scripts/edgar_test.py
 
       - name: Save results to the repository
