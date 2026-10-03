@@ -1,0 +1,9 @@
+ticker,note,price_status,price_rows,price_first,price_last,yahoo_earn_count,yahoo_earn_first,yahoo_earn_last,av_earn_count,av_earn_first,av_earn_last
+AAPL,active (control),200,2955,2015-01-02,2026-10-02,48,2015-01-27,2026-10-29,47,2015-01-27,2026-07-30
+ATVI,acquired 2023,200,2211,2015-01-02,2023-10-13,0,,,0,,
+CELG,acquired 2019,200,1231,2015-01-02,2019-11-20,0,,,0,,
+TWTR,taken private 2022,200,1970,2015-01-02,2022-10-27,0,,,0,,
+XLNX,acquired 2022,200,1795,2015-01-02,2022-02-16,0,,,0,,
+CTXS,taken private 2022,200,1950,2015-01-02,2022-09-29,0,,,0,,
+FRC,bank failure 2023,200,2087,2015-01-02,2023-05-02,0,,,0,,
+SIVB,bank failure 2023,200,2060,2015-01-02,2023-03-09,0,,,0,,
