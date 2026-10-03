@@ -1,17 +1,18 @@
 """
 Free earnings-date source test (v2): SEC EDGAR 8-K filings with Item 2.02
 ("Results of Operations and Financial Condition").
-v2: known CIK numbers for the test set (the ticker lookup returned nothing in v1),
+v3: User-Agent from secret (v2 got HTTP 403). v2: known CIK numbers for the test set (the ticker lookup returned nothing in v1),
 and full diagnostics (HTTP status + start of response) so any block is visible.
 """
+import os
 import time
 from pathlib import Path
 
 import pandas as pd
 import requests
 
-UA = {"User-Agent": "Khalid Alsaleem personal research Khalid-Alsaleem@users.noreply.github.com",
-      "Accept-Encoding": "gzip, deflate"}
+# SEC requires a declared "Name email" User-Agent; kept in a GitHub secret so the email is not public
+UA = {"User-Agent": os.environ["SEC_USER_AGENT"], "Accept-Encoding": "gzip, deflate"}
 TEST = {"AAPL": 320193, "ATVI": 718877, "CELG": 816284, "TWTR": 1418091,
         "XLNX": 743988, "CTXS": 877890, "FRC": 1132979, "SIVB": 719739}
 BASE = "https://data.sec.gov/submissions/"
