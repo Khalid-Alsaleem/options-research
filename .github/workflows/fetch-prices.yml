@@ -1,0 +1,31 @@
+name: fetch-prices
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install packages
+        run: pip install yfinance pandas
+
+      - name: Download prices
+        run: python scripts/fetch_prices.py
+
+      - name: Save data to the repository
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add data
+          git commit -m "Update price data" || echo "No changes"
+          git push
