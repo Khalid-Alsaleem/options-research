@@ -1,9 +1,9 @@
-ticker,cik,status,response_start
-AAPL,320193,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
-ATVI,718877,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
-CELG,816284,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
-TWTR,1418091,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
-XLNX,743988,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
-CTXS,877890,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
-FRC,1132979,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
-SIVB,719739,403,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""> <html xmlns=""http://www.w3.o"
+ticker,cik,status,name,count,first,last
+AAPL,320193,200,Apple Inc.,48,2015-01-27,2026-07-30
+ATVI,718877,200,"Activision Blizzard, Inc.",35,2015-02-05,2023-07-19
+CELG,816284,200,CELGENE CORP /DE/,25,2015-01-12,2019-10-31
+TWTR,1418091,200,"TWITTER, INC.",32,2015-02-05,2022-07-22
+XLNX,743988,200,XILINX INC,31,2015-01-21,2022-01-26
+CTXS,877890,200,CITRIX SYSTEMS INC,32,2015-01-28,2022-01-31
+FRC,1132979,200,FIRST REPUBLIC BANK,0,,
+SIVB,719739,200,SVB FINANCIAL GROUP,34,2015-01-16,2023-01-19
