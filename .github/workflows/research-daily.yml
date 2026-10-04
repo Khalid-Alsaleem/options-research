@@ -1,0 +1,41 @@
+name: research-daily
+
+on:
+  schedule:
+    - cron: "0 1 * * *"        # every day 01:00 UTC (04:00 Riyadh)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: research
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install packages
+        run: pip install pandas numpy scipy
+
+      - name: Run next batch of indicator trials (learning period only)
+        env:
+          MAX_MINUTES: "300"
+        run: python scripts/research.py data results
+
+      - name: Save results to the repository
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add results
+          git commit -m "Research batch $(date -u +%F)" || echo "No changes"
+          git pull --rebase
+          git push
