@@ -1,8 +1,6 @@
 name: research-daily
 
 on:
-  schedule:
-    - cron: "0 1 * * *"        # every day 01:00 UTC (04:00 Riyadh)
   workflow_dispatch:
 
 permissions:
