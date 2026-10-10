@@ -1,5 +1,6 @@
 """
 Options indicator research - single-file engine (Phase A, synthetic option prices).
+v2 (2026-10-10): contract shape delta 0.8 / ~90 DTE chosen by the pre-registered shape study; results in results/shape_d80_t90/.
 Protocol: Khalid's options-indicator research protocol (2026-10-03 + amendments).
 Learning period only (entries 2016-01-01 .. 2022-11-30). Every trial is logged in results/trials.csv.
 Sections: DATASET -> ENGINE -> INDICATORS -> RUNNER.
@@ -81,7 +82,9 @@ from math import sqrt
 from scipy.special import ndtr
 
 R, SPREAD, TARGET, MAX_DAYS, FORCED_DTE = 0.02, 0.05, 0.30, 10, 10
-DTE_MIN, DTE_MAX, DTE_TGT = 25, 60, 30
+DTE_MIN, DTE_MAX, DTE_TGT = 80, 125, 90          # shape v2 (2026-10-10): longer-dated contract
+DELTA_TGT = 0.8                                  # shape v2: in-the-money, delta 0.70-0.90
+SHAPE_TAG = "shape_d80_t90"
 LEARN_START, LEARN_LAST_ENTRY = "2016-01-01", "2022-11-30"   # exits stay inside 2022
 EARN_BLOCK = 10                                              # trading days ahead
 SHOCK_GAP, SHOCK_SPY, SHOCK_VIX = 0.05, 0.02, 0.20
@@ -137,9 +140,9 @@ def simulate(px, i, call, ind_neg, spy_r, vix_r):
     exp_ = EXP[ok][np.argmin(np.abs(dd[ok] - DTE_TGT))]
     T0 = (exp_ - date).days / 365
     st = step(S); ks = np.round(S / st) * st + st * np.arange(-10, 11); ks = ks[ks > 0]
-    dl = np.abs(delta(S, ks, T0, sig, call)); m = (dl >= 0.4) & (dl <= 0.6)
+    dl = np.abs(delta(S, ks, T0, sig, call)); m = (dl >= DELTA_TGT - 0.1) & (dl <= DELTA_TGT + 0.1)
     if not m.any(): return None
-    K = ks[m][np.argmin(np.abs(dl[m] - 0.5))]
+    K = ks[m][np.argmin(np.abs(dl[m] - DELTA_TGT))]
     cost = bs(S, K, T0, sig, call) * (1 + SPREAD / 2)
     j = np.arange(i + 1, len(px)); dte = (exp_ - px.index[j]).days.values
     stop = np.argmax(dte <= FORCED_DTE) if (dte <= FORCED_DTE).any() else len(j) - 1
@@ -424,7 +427,7 @@ def trial_row(fam, params, T):
     return row
 
 def main(root, out_dir, minutes):
-    t0 = time.time(); out = Path(out_dir); out.mkdir(parents=True, exist_ok=True)
+    t0 = time.time(); out = Path(out_dir) / SHAPE_TAG; out.mkdir(parents=True, exist_ok=True)
     P = build(root); vrp, spy_r, vix_r = market(root)
     for s in P.values(): s["prep"] = prepare(s, vrp)
     print("prepared", len(P), "segments in", round(time.time() - t0), "s", flush=True)
