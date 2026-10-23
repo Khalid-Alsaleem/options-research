@@ -1,0 +1,151 @@
+ticker,rank,key,n,avg
+AAPL,1,"elliott(5,)|spy|std",5,0.134
+AAPL,2,"msc(2,)|none|std",18,0.122
+AAPL,3,macd()|none|std,17,0.113
+ABBV,1,"msc(2,)|spy|std",10,0.123
+ABBV,2,"pullback(5, 95)|none|std",12,0.119
+ABBV,3,"ma(10, 30)|spy|std",10,0.117
+ADBE,1,"donch(55, 20)|spy|std",6,0.126
+ADBE,2,macd()|none|safe,8,0.111
+ADBE,3,"pullback(5, 95)|none|std",5,0.108
+AMD,1,"ma(20, 50)|spy|std",7,0.174
+AMD,2,"pullback(5, 95)|spy|std",11,0.142
+AMD,3,"pullback(10, 90)|spy|std",20,0.125
+AMZN,1,"msc(5,)|none|std",6,0.158
+AMZN,2,"ma(10, 30)|none|std",13,0.152
+AMZN,3,"msc(3,)|spy|std",13,0.134
+AVGO,1,"pullback(5, 95)|none|std",15,0.149
+AVGO,2,"elliott(5,)|none|std",8,0.147
+AVGO,3,"donch(20, 10)|none|std",25,0.146
+BA,1,"elliott(3,)|none|std",6,0.071
+BA,2,"donch(20, 10)|none|std",18,0.067
+BA,3,"donch(55, 20)|none|safe",13,0.062
+BAC,1,"msc(5,)|none|std",9,0.137
+BAC,2,"elliott(8,)|none|std",7,0.121
+BAC,3,"elliott(3,)|none|std",12,0.12
+C,1,"pullback(10, 90)|spy|std",21,0.111
+C,2,trend_state|none|std,40,0.072
+C,3,"pullback(5, 95)|spy|std",12,0.067
+CAT,1,"elliott(3,)|none|std",6,0.146
+CAT,2,"elliott(5,)|none|std",8,0.143
+CAT,3,"donch(55, 20)|none|std",21,0.13
+CMCSA,1,"elliott(5,)|none|std",6,0.128
+CMCSA,2,"pullback(5, 95)|spy|safe",6,0.095
+CMCSA,3,"ma(20, 50)|none|std",5,0.086
+COST,1,"ma(10, 30)|none|std",15,0.123
+COST,2,"msc(3,)|none|std",14,0.12
+COST,3,"msc(2,)|none|std",17,0.118
+CRM,1,"pullback(5, 95)|none|std",8,0.134
+CRM,2,"pullback(10, 90)|none|std",9,0.097
+CRM,3,"msc(5,)|none|std",9,0.059
+CSCO,1,macd()|spy|std,14,0.106
+CSCO,2,"elliott(5,)|none|std",12,0.101
+CSCO,3,"pullback(10, 90)|none|std",20,0.1
+CVX,1,"elliott(8,)|spy|std",5,0.134
+CVX,2,"elliott(5,)|spy|std",5,0.123
+CVX,3,"ma(20, 50)|spy|std",5,0.12
+DIS,1,"donch(55, 20)|none|std",6,0.132
+DIS,2,"donch(20, 10)|spy|std",15,0.105
+DIS,3,"pullback(5, 95)|spy|safe",6,0.076
+F,1,"ma(20, 50)|spy|std",7,0.095
+F,2,"ma(10, 30)|none|safe",17,0.094
+F,3,"msc(2,)|none|std",14,0.093
+GE,1,"pullback(5, 95)|none|std",8,0.115
+GE,2,macd()|spy|std,21,0.101
+GE,3,"pullback(10, 90)|none|std",19,0.098
+GM,1,"pullback(5, 95)|spy|std",11,0.11
+GM,2,"donch(55, 20)|spy|std",15,0.109
+GM,3,"msc(5,)|none|safe",6,0.101
+GOOGL,1,"ma(20, 50)|spy|std",7,0.142
+GOOGL,2,"elliott(5,)|none|std",8,0.139
+GOOGL,3,"pullback(5, 95)|none|std",10,0.129
+GS,1,"msc(3,)|none|std",5,0.106
+GS,2,"msc(5,)|none|std",5,0.101
+GS,3,"msc(2,)|none|std",12,0.092
+HD,1,"msc(5,)|none|std",9,0.117
+HD,2,"msc(3,)|none|std",10,0.117
+HD,3,"elliott(3,)|none|std",9,0.086
+IBM,1,"ma(10, 30)|none|std",11,0.114
+IBM,2,"pullback(5, 95)|none|std",16,0.111
+IBM,3,"msc(5,)|none|std",10,0.107
+INTC,1,"elliott(3,)|spy|std",8,0.105
+INTC,2,"msc(3,)|none|std",19,0.1
+INTC,3,"msc(2,)|spy|std",16,0.078
+JNJ,1,"ma(20, 50)|spy|std",8,0.111
+JNJ,2,"ma(10, 30)|spy|std",10,0.071
+JNJ,3,"pullback(5, 95)|none|std",8,0.07
+JPM,1,"ma(20, 50)|none|std",9,0.105
+JPM,2,"msc(3,)|none|std",10,0.104
+JPM,3,trend_state|none|std,42,0.091
+KO,1,"ma(20, 50)|none|std",8,0.094
+KO,2,"elliott(5,)|none|std",6,0.092
+KO,3,"elliott(3,)|none|std",8,0.091
+MA,1,"ma(20, 50)|none|std",7,0.139
+MA,2,"msc(5,)|none|std",6,0.115
+MA,3,"elliott(3,)|none|std",13,0.095
+META,1,"elliott(8,)|none|std",6,0.153
+META,2,"ma(20, 50)|none|std",8,0.151
+META,3,"elliott(5,)|none|std",8,0.13
+MRK,1,"ma(20, 50)|spy|std",7,0.092
+MRK,2,"elliott(5,)|none|std",5,0.084
+MRK,3,"pullback(10, 90)|none|safe",17,0.082
+MS,1,"ma(20, 50)|spy|std",8,0.152
+MS,2,"elliott(5,)|none|std",5,0.142
+MS,3,"msc(5,)|none|std",7,0.141
+MSFT,1,"pullback(5, 95)|spy|std",7,0.105
+MSFT,2,"ma(20, 50)|none|safe",9,0.09
+MSFT,3,"msc(5,)|none|std",7,0.079
+MU,1,"donch(55, 20)|spy|std",19,0.156
+MU,2,"elliott(5,)|none|std",7,0.15
+MU,3,"ma(20, 50)|none|std",11,0.146
+NFLX,1,"elliott(8,)|none|std",5,0.161
+NFLX,2,"elliott(3,)|none|std",8,0.132
+NFLX,3,"ma(20, 50)|none|std",9,0.118
+NVDA,1,"ma(20, 50)|none|std",7,0.164
+NVDA,2,"msc(2,)|none|std",16,0.153
+NVDA,3,macd()|spy|std,17,0.144
+ORCL,1,"ma(10, 30)|none|std",13,0.133
+ORCL,2,"elliott(8,)|spy|std",5,0.133
+ORCL,3,"msc(5,)|none|std",11,0.117
+PEP,1,trend_state|none|std,23,0.048
+PEP,2,macd()|none|std,11,0.035
+PEP,3,"pullback(5, 95)|none|safe",11,0.035
+PFE,1,"pullback(5, 95)|spy|safe",6,0.08
+PFE,2,"elliott(3,)|none|safe",7,0.08
+PFE,3,trend_state|spy|std,20,0.054
+PG,1,"donch(20, 10)|spy|safe",14,0.084
+PG,2,"ma(10, 30)|none|safe",13,0.083
+PG,3,"msc(3,)|none|safe",13,0.077
+PYPL,1,"pullback(10, 90)|spy|std",9,0.111
+PYPL,2,"ma(20, 50)|none|std",7,0.083
+PYPL,3,"donch(55, 20)|none|std",8,0.071
+QCOM,1,"ma(20, 50)|none|std",6,0.163
+QCOM,2,"msc(5,)|spy|std",8,0.16
+QCOM,3,"ma(10, 30)|none|std",15,0.136
+T,1,"ma(20, 50)|none|std",8,0.126
+T,2,"elliott(8,)|spy|std",8,0.125
+T,3,"donch(55, 20)|none|std",13,0.124
+TSLA,1,"elliott(5,)|spy|std",5,0.168
+TSLA,2,"elliott(3,)|none|std",7,0.166
+TSLA,3,"ma(20, 50)|none|std",8,0.151
+TXN,1,macd()|none|std,13,0.091
+TXN,2,"msc(3,)|none|std",17,0.09
+TXN,3,"pullback(5, 95)|none|std",8,0.046
+UNH,1,macd()|spy|safe,7,0.093
+UNH,2,"msc(2,)|none|std",12,0.085
+UNH,3,"pullback(5, 95)|spy|safe",5,0.079
+V,1,"ma(10, 30)|none|std",13,0.101
+V,2,"msc(2,)|none|std",17,0.094
+V,3,"msc(5,)|none|std",9,0.087
+VZ,1,macd()|spy|std,9,0.12
+VZ,2,"ma(10, 30)|none|std",17,0.088
+VZ,3,"donch(55, 20)|none|std",12,0.081
+WFC,1,"msc(5,)|none|std",7,0.153
+WFC,2,"ma(20, 50)|none|std",8,0.125
+WFC,3,"elliott(5,)|spy|std",5,0.103
+WMT,1,"elliott(5,)|none|std",5,0.125
+WMT,2,"ma(20, 50)|none|std",8,0.121
+WMT,3,"ma(10, 30)|spy|std",12,0.12
+XOM,1,"msc(5,)|none|safe",15,0.087
+XOM,2,"donch(55, 20)|spy|std",10,0.081
+XOM,3,"msc(2,)|none|safe",21,0.079
